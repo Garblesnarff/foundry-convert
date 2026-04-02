@@ -1,0 +1,14 @@
+{
+  "app_name": "Convert",
+  "subtitle": "Batch File Format Converter",
+  "description": "Convert is a fast, drag-and-drop file format converter that processes entire batches concurrently. Drop a folder of images, videos, audio files, or documents onto Convert and walk away while it transforms everything in parallel.\n\nDesigned for photographers, videographers, and anyone who regularly moves files between formats, Convert eliminates the tedium of one-at-a-time conversion with a clean queue-based workflow.\n\nDrag-and-Drop Queue\nDrag files or entire folders onto the Convert window to populate the conversion queue. Each item shows its source format, target format, and progress. Add more files while a batch is already processing.\n\nConcurrent Processing\nConvert takes full advantage of Apple Silicon by running multiple conversions simultaneously across available CPU and GPU cores. Large batches complete in a fraction of the time compared to sequential tools.\n\nBroad Format Support\nConvert handles images (HEIC, PNG, JPEG, TIFF, WebP, AVIF), video (MOV, MP4, ProRes, H.265), audio (AAC, MP3, FLAC, WAV, AIFF), and documents (Markdown, HTML, PDF). Format pairs are curated to ensure high-quality output with sensible defaults.\n\nQuality Controls\nAdjust output quality, resolution, sample rate, and other format-specific parameters before starting a batch. Save frequently used configurations as conversion presets for one-click reuse.\n\nPrivacy and Simplicity\nAll conversion happens locally on your Mac. No files are uploaded anywhere. Convert has no account system, no analytics, and no subscription.",
+  "keywords": "converter,batch,format,image,video,audio,HEIC,PNG,MP4,file",
+  "primary_category": "Utilities",
+  "secondary_category": "Productivity",
+  "age_rating": "4+",
+  "copyright": "2026 Hanson Foundry",
+  "privacy_url": "https://hansonfoundry.com/privacy",
+  "support_url": "https://hansonfoundry.com/support",
+  "version": "1.0.0",
+  "bundle_id": "com.hansonfoundry.Convert"
+}
