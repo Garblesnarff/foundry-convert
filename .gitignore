@@ -3,3 +3,6 @@ build/
 *.xcuserstate
 DerivedData/
 .swiftpm/
+
+._build
+*.xcodeproj/project.xcworkspace/
